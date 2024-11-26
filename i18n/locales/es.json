@@ -1,0 +1,22 @@
+{
+  "dashboard": {
+    "title": "Panel de Inversiones",
+    "subtitle": "Monitorea y analiza el rendimiento de ETFs para decisiones óptimas de inversión",
+    "lastUpdated": "Última actualización",
+    "performance": "Comparación de Rendimiento",
+    "strategy": "Recomendación de Estrategia Actual",
+    "allocation": "Asignación Recomendada",
+    "explanation": "Explicación de la Estrategia"
+  },
+  "portfolio": {
+    "calculator": "Calculadora de Portafolio",
+    "totalInvestment": "Monto Total de Inversión",
+    "allocation": "Asignación de Activos"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  }
+}

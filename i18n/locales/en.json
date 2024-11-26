@@ -1,0 +1,22 @@
+{
+  "dashboard": {
+    "title": "Investment Dashboard",
+    "subtitle": "Monitor and analyze ETF performance for optimal investment decisions",
+    "lastUpdated": "Last updated",
+    "performance": "Performance Comparison",
+    "strategy": "Current Strategy Recommendation",
+    "allocation": "Recommended Allocation",
+    "explanation": "Strategy Explanation"
+  },
+  "portfolio": {
+    "calculator": "Portfolio Calculator",
+    "totalInvestment": "Total Investment Amount",
+    "allocation": "Asset Allocation"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
